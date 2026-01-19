@@ -13,10 +13,15 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Ananke"
+title = "Karin Cox | Pitt Neurobiology"  #"Ananke"
 weight = 1
 contentDir = "content/en"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[menu.main]]
+  name = "CV"
+  url = "/docs/cv_kc_260118.pdf"
+  weight = 10
