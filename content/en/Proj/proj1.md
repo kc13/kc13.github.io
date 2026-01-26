@@ -4,11 +4,11 @@ date: 2026-01-19T02:34:00-05:00
 ---
 Can we achieve Parkinsonian symptom relief that endures long after DBS offset?
 <!--more-->
-With conventional deep brain stimulation (cDBS), motor symptoms re-emerge rapidly if stimulation ceases.  In parkinsonian mice, the Gittis lab discovered more enduring effects following administration of a burst DBS pattern (200 ms ON, 800 OFF) to the entopeduncular nucleus (EPN). Compared to cDBS, bDBS yielded > 4*x* prolongation of the vigorous locomotion that persisted after stimulation offset. This protocol was informed by prior data that had identified two factors (differential modulation of GPe cell subtypes; targeting of STN and D1 striatal spiny neuron fibers) -- as key to generating such persistent relief[^1] [^2].
+With conventional deep brain stimulation (cDBS), motor symptoms re-emerge rapidly if stimulation ceases.  In parkinsonian mice, the Gittis lab discovered more enduring effects following administration of a burst DBS pattern (200 ms ON, 800 OFF) to the entopeduncular nucleus (EPN) [^1]. Compared to cDBS, bDBS yielded > 4*x* prolongation of the persistance of vigorous locomotion after stimulation offset. The bDBS protocol was informed by prior data that had identified two factors (differential modulation of GPe cell subtypes; targeting of STN and D1 striatal spiny neuron fibers) as key to generating such persistent relief[^1] [^2].
 
 Can we extend these benefits to humans with PD?  We are conducting a nonhuman primate (NHP) investigation as a translational bridge. The translation process raises two questions:
 
-1. Where should we stimulate in the primate brain?  The entopeduncular nucleus lacks a clear primate homologue[^3]. Our initial tests will focus on the GPe-GPi border.  
+1. Where should we stimulate in the primate brain?  The EPN lacks a clear primate homologue[^3]. Our initial tests will focus on the GPe-GPi border.  
 
 2. Will the persistent relief extend beyond the invigoration of spontaneous locomotion?  PD symptoms are diverse, and their pathophysiology is argued to be at least partially dissociable[^4]. 
 
