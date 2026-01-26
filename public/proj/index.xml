@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Karin Cox | Pitt Neurobiology</title>
+    <link>http://localhost:1313/proj/</link>
+    <description>Recent content in Projects on Karin Cox | Pitt Neurobiology</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2026 02:34:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/proj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burst DBS in parkinsonian nonhuman primates</title>
+      <link>http://localhost:1313/proj/proj1/</link>
+      <pubDate>Mon, 19 Jan 2026 02:34:00 -0500</pubDate>
+      <guid>http://localhost:1313/proj/proj1/</guid>
+      <description>&lt;p&gt;Can we achieve Parkinsonian symptom relief that endures long after DBS offset?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Large-scale electrophysiological recording of the subthalamic nucleus during cued reaching</title>
+      <link>http://localhost:1313/proj/proj2/</link>
+      <pubDate>Mon, 19 Jan 2026 02:33:00 -0500</pubDate>
+      <guid>http://localhost:1313/proj/proj2/</guid>
+      <description>&lt;p&gt;How can dense sampling of STN unit spiking refine models of this region&amp;rsquo;s contributions to voluntary movement?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Detecting rhythmic spiking through the power spectra of point process model residuals</title>
+      <link>http://localhost:1313/proj/proj3/</link>
+      <pubDate>Mon, 19 Jan 2026 02:32:00 -0500</pubDate>
+      <guid>http://localhost:1313/proj/proj3/</guid>
+      <description>&lt;p&gt;How can we isolate the oscillatory drives that contribute to a spike train?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Encoding of motor sequences in primate globus pallidus and motor cortex</title>
+      <link>http://localhost:1313/proj/prep1/</link>
+      <pubDate>Mon, 19 Jan 2026 02:14:00 -0500</pubDate>
+      <guid>http://localhost:1313/proj/prep1/</guid>
+      <description>&lt;p&gt;How is GP and M1 activity reorganized by skilled versus unskilled movement execution?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cerebellar- and basal ganglia-recipient thalamus activity during movement preparation and execution</title>
+      <link>http://localhost:1313/proj/prep2/</link>
+      <pubDate>Mon, 19 Jan 2026 02:13:00 -0500</pubDate>
+      <guid>http://localhost:1313/proj/prep2/</guid>
+      <description>&lt;p&gt;In these motor thalmaus subregions, how and when does single-unit spiking reflect established properties of their cerebellar and basal ganglia afferents?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

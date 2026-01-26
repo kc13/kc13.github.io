@@ -9,4 +9,6 @@ cascade:
   featured_image: '/images/lawrenceville.jpg'
   omit_header_text: true # why is this also ignored
 ---
-This website is in development.
+This website is under development.<br>
+\
+[[banner image reference]](https://commons.wikimedia.org/wiki/File:Lawrenceville_-_Pittsburgh.jpg)

@@ -1,0 +1,14 @@
+body {
+    max-width: none; /* Removes the maximum width constraint */
+}
+
+article {
+    max-width: 100%; /* Use the full width of the parent container */
+    margin: 0 auto;  /* Center the content if needed */
+}
+
+
+.main-content-wrap {
+  max-width: 1200px; /* Increase from 750px */
+  margin: 0 auto; /* Keeps it centered */
+}

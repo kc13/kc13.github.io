@@ -1,0 +1,32 @@
+baseURL = 'http://kc13.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+#Paginate = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+[languages.en]
+title = "Karin Cox | Pitt Neurobiology"  #"Ananke"
+weight = 1
+contentDir = "content/en"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[[menu.main]]
+  name = "CV"
+  url = "/docs/cv_kc_260118.pdf"
+  weight = 10
+
+[[menu.main]]
+  name = "Projects"
+  url = "/"
+  weight = 10

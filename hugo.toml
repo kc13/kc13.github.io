@@ -7,7 +7,7 @@ resourceDir = "../resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 #Paginate = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
-pagination.pagerSize = 3
+pagination.pagerSize = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -23,5 +23,12 @@ contentDir = "content/en"
 
 [[menu.main]]
   name = "CV"
-  url = "/docs/cv_kc_260118.pdf"
-  weight = 10
+  url = "/docs/cv_kc_260125.pdf"
+  weight = 3
+
+
+[params]
+recent_posts_number = 0
+show_recent_posts = false
+custom_css = ["custom.css"]
+summaryLength = 30 # Sets summary to approximately 30 words
