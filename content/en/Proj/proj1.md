@@ -4,7 +4,7 @@ date: 2026-01-19T02:34:00-05:00
 ---
 Can we achieve Parkinsonian symptom relief that endures long after DBS offset?
 <!--more-->
-With conventional deep brain stimulation (cDBS), motor symptoms re-emerge rapidly if stimulation ceases.  In parkinsonian mice, the Gittis lab discovered more enduring effects following administration of a burst DBS pattern (200 ms ON, 800 OFF) to the entopeduncular nucleus (EPN) [^1]. Compared to cDBS, bDBS yielded > 4*x* prolongation of the persistance of vigorous locomotion after stimulation offset. The bDBS protocol was informed by prior data that had identified two factors (differential modulation of GPe cell subtypes; targeting of STN and D1 striatal spiny neuron fibers) as key to generating such persistent relief[^1] [^2].
+With conventional deep brain stimulation (cDBS), motor symptoms re-emerge rapidly if stimulation ceases.  In parkinsonian mice, the Gittis lab discovered more enduring relief following administration of a burst DBS pattern (200 ms ON, 800 OFF) to the entopeduncular nucleus (EPN)[^1]. Compared to cDBS, bDBS yielded > 4*x* prolongation of the persistence of vigorous locomotion after stimulation offset. The bDBS protocol was informed by prior data that had identified two factors (differential modulation of GPe cell subtypes; targeting of STN and D1 striatal spiny neuron fibers) as key to generating such persistent benefits[^1] [^2].
 
 Can we extend these benefits to humans with PD?  We are conducting a nonhuman primate (NHP) investigation as a translational bridge. The translation process raises two questions:
 
@@ -12,7 +12,7 @@ Can we extend these benefits to humans with PD?  We are conducting a nonhuman pr
 
 2. Will the persistent relief extend beyond the invigoration of spontaneous locomotion?  PD symptoms are diverse, and their pathophysiology is argued to be at least partially dissociable[^4]. 
 
-From NHPs in the neurologically normal, parkinsonian, and cDBS- and bDBS-treated states, we are acquiring an extensive battery of lab- and cage-based measures.  
+From NHPs in the neurologically normal, parkinsonian, and cDBS- and bDBS-treated states, we are currently acquiring an extensive battery of lab- and cage-based measures.  
 
 \[under construction: more details and figures to be added soon\]
 
