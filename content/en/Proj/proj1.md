@@ -16,9 +16,6 @@ From NHPs in the neurologically normal, parkinsonian, and cDBS- and bDBS-treated
 
 \[under construction: more details and figures to be added soon\]
 
-<!-- so there is a goal to extend to humans -- and there is that work -- we are trying to do NHP -->
-
-
 [^1]:[Mastro et al. 2017](https://doi.org/10.1038/nn.4559)
 
 [^2]:[Spix et al. 2021](https://doi.org/10.1126/science.abi7852)
